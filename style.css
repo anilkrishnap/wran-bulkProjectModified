@@ -35,5 +35,7 @@
 
 .tab-items .icon-close{display: none !important;}
 
+.row-data-4, .row-data-5,.row-data-6,.row-data-7,.row-data-8{padding-left:1px !important;} 
+
 /* .group-wrapper-2, .error-warning-option-2, .cell-text-6{padding:3px 87px 3px 5px !important;}
 .error-warning-option{padding:3px 55px 3px 5px !important;} */

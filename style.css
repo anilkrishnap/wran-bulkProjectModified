@@ -22,5 +22,18 @@
     opacity: 0;
 }
 
+.pagination-4,.pagination-5,.pagination-6,.pagination-7,.pagination-8 {
+    background-color: var(--grey-grey-1);
+    align-self: stretch;
+    align-items: center;
+    gap: 0 !important;
+    margin-bottom: -4px;
+    padding: 0 !important;
+    display: flex;
+    position: relative;
+}
+
+.tab-items .icon-close{display: none !important;}
+
 /* .group-wrapper-2, .error-warning-option-2, .cell-text-6{padding:3px 87px 3px 5px !important;}
 .error-warning-option{padding:3px 55px 3px 5px !important;} */

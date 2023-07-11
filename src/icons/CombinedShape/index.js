@@ -1,0 +1,1 @@
+export { CombinedShape } from "./CombinedShape";

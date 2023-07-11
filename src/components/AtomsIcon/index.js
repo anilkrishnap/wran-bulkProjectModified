@@ -1,0 +1,1 @@
+export { AtomsIcon } from "./AtomsIcon";

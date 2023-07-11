@@ -1,0 +1,1 @@
+export { IconCheckmarkAlt } from "./IconCheckmarkAlt";

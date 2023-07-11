@@ -1,0 +1,12 @@
+.bar {
+  height: 4px;
+  width: 60px;
+}
+
+.bar.selected {
+  background-color: var(--redred-3);
+}
+
+.bar.hover {
+  background-color: var(--grey-grey-6);
+}

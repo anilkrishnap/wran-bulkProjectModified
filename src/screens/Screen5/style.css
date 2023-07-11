@@ -1,0 +1,460 @@
+.screen-5 {
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-5 .CBPM-5 {
+  background-color: #f7f9fb;
+  border: 1px none;
+  height: 802px;
+  width: 1024px;
+}
+
+.screen-5 .overlap-15 {
+  height: 373px;
+  position: relative;
+}
+
+.screen-5 .template-create-bulk-2 {
+  align-items: center;
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.screen-5 .global-header-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .atoms-icon-2019-close-58 {
+  height: 12px !important;
+  min-width: 12px !important;
+  position: relative !important;
+}
+
+.screen-5 .global-header-18 {
+  background-image: url(../../../static/img/shape-365.svg) !important;
+}
+
+.screen-5 .global-header-19 {
+  background-image: url(../../../static/img/combined-shape.svg) !important;
+}
+
+.screen-5 .global-header-20 {
+  align-self: stretch !important;
+  min-width: 188px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.screen-5 .local-swimlane-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .swimlane-5 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 36px;
+  position: relative;
+  width: 1004px;
+}
+
+.screen-5 .divider-46 {
+  margin-left: -1px !important;
+  margin-right: -1px !important;
+  margin-top: -1px !important;
+  min-width: 1006px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.screen-5 .names-5 {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .step-name-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .step-name-12 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h5-font-family);
+  font-size: var(--desktop-h5-font-size);
+  font-style: var(--desktop-h5-font-style);
+  font-weight: var(--desktop-h5-font-weight);
+  letter-spacing: var(--desktop-h5-letter-spacing);
+  line-height: var(--desktop-h5-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-5 .icon-cta-caret-close-8 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.screen-5 .step-name-13 {
+  color: var(--greygrey-4);
+  font-family: var(--desktop-h5-font-family);
+  font-size: var(--desktop-h5-font-size);
+  font-style: var(--desktop-h5-font-style);
+  font-weight: var(--desktop-h5-font-weight);
+  letter-spacing: var(--desktop-h5-letter-spacing);
+  line-height: var(--desktop-h5-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-5 .divider-47 {
+  margin-bottom: -1px !important;
+  margin-left: -1px !important;
+  margin-right: -1px !important;
+  min-width: 1006px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.screen-5 .local-CBP-new-build-2 {
+  align-items: flex-start;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .navigation-window-5 {
+  height: 219px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.screen-5 .overlap-16 {
+  height: 221px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 1008px;
+}
+
+.screen-5 .local-select-wrapper {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  border: 4px solid;
+  border-color: var(--grey-grey-6);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 183px;
+  left: 0;
+  padding: 4px;
+  position: absolute;
+  top: 0;
+  width: 1008px;
+}
+
+.screen-5 .local-select-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 0px 18px;
+  position: relative;
+}
+
+.screen-5 .heading-7 {
+  background-color: var(--grey-grey-1);
+  height: 39px;
+  margin-right: -2px;
+  min-width: 998px;
+  position: relative;
+}
+
+.screen-5 .placeholder-text-31 {
+  color: var(--grey-grey-6);
+  font-family: "Neue Haas Grotesk Display Std-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.screen-5 .fields-2 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-5 .lable-2 {
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  width: 69.14px;
+}
+
+.screen-5 .label-37 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-caption-font-family);
+  font-size: var(--desktop-caption-font-size);
+  font-style: var(--desktop-caption-font-style);
+  font-weight: var(--desktop-caption-font-weight);
+  letter-spacing: var(--desktop-caption-letter-spacing);
+  line-height: var(--desktop-caption-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-5 .radio-button-4 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 20px;
+  position: relative;
+  width: 90.18px;
+}
+
+.screen-5 .group-34 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.screen-5 .overlap-group-9 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--grey-grey-6);
+  border-radius: 11px;
+  height: 22px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 22px;
+}
+
+.screen-5 .ellipse-4 {
+  background-color: var(--grey-grey-6);
+  border: 1px solid;
+  border-radius: 6px;
+  height: 13px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 13px;
+}
+
+.screen-5 .placeholder-text-32 {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-5 .ellipse-5 {
+  background-color: var(--grey-grey-1);
+  border: 1px solid;
+  border-color: var(--grey-grey-6);
+  border-radius: 11px;
+  height: 22px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-top: -1px;
+  min-width: 22px;
+  position: relative;
+}
+
+.screen-5 .placeholder-text-33 {
+  color: #000000;
+  font-family: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -12.82px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-5 .navigation-action-5 {
+  background-color: var(--grey-grey-1);
+  height: 40px;
+  left: 384px;
+  position: absolute;
+  top: 181px;
+  width: 240px;
+}
+
+.screen-5 .overlap-17 {
+  background-image: url(../../../static/img/step-actions-bg-focus-copy.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  position: relative;
+}
+
+.screen-5 .line-7 {
+  height: 32px !important;
+  left: 159px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 2px !important;
+}
+
+.screen-5 .line-8 {
+  height: 32px !important;
+  left: 78px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 2px !important;
+}
+
+.screen-5 .label-38 {
+  color: var(--grey-grey-1);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  left: 14px;
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.screen-5 .label-39 {
+  color: var(--grey-grey-1);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  left: 87px;
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.screen-5 .label-40 {
+  color: var(--grey-grey-1);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  left: 184px;
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.screen-5 .divider-48 {
+  min-width: 999px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.screen-5 .user-interaction-3 {
+  height: 32px;
+  left: 232px;
+  position: absolute;
+  top: 212px;
+  width: 32px;
+}
+
+.screen-5 .group-35 {
+  height: 45px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+}
+
+.screen-5 .group-36 {
+  height: 45px;
+  width: 34px;
+}
+
+.screen-5 .overlap-group-10 {
+  height: 47px;
+  position: relative;
+  top: -4px;
+  width: 32px;
+}
+
+.screen-5 .click-instance {
+  height: 40px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.screen-5 .text-wrapper-17 {
+  -webkit-text-stroke: 2px #ffffff;
+  border-color: var(--graygray-1);
+  color: var(--grey-grey-6);
+  font-family: var(--h7-font-family);
+  font-size: var(--h7-font-size);
+  font-style: var(--h7-font-style);
+  font-weight: var(--h7-font-weight);
+  left: 0;
+  letter-spacing: var(--h7-letter-spacing);
+  line-height: var(--h7-line-height);
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+}

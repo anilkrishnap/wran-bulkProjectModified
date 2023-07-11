@@ -1,0 +1,331 @@
+.screen-6 {
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-6 .CBPM-6 {
+  background-color: var(--bg);
+  border: 1px none;
+  height: 763px;
+  position: relative;
+  width: 1024px;
+}
+
+.screen-6 .global-header-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.screen-6 .icon-instance-node-6 {
+  height: 12px !important;
+  min-width: 12px !important;
+  position: relative !important;
+}
+
+.screen-6 .global-header-22 {
+  background-image: url(../../../static/img/shape-17.svg) !important;
+}
+
+.screen-6 .global-header-23 {
+  background-image: url(../../../static/img/combined-shape.svg) !important;
+}
+
+.screen-6 .global-header-24 {
+  align-self: stretch !important;
+  min-width: 38px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.screen-6 .overlap-18 {
+  height: 338px;
+  left: 10px;
+  position: absolute;
+  top: 97px;
+  width: 496px;
+}
+
+.screen-6 .link-widget-10 {
+  align-items: flex-start;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 496px;
+}
+
+.screen-6 .header-and-divider-2 {
+  align-self: stretch;
+  height: 48px;
+  min-width: 476px;
+  position: relative;
+}
+
+.screen-6 .header-with-icon-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 476px;
+}
+
+.screen-6 .h-1 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h4-font-family);
+  font-size: var(--desktop-h4-font-size);
+  font-style: var(--desktop-h4-font-style);
+  font-weight: var(--desktop-h4-font-weight);
+  letter-spacing: var(--desktop-h4-letter-spacing);
+  line-height: var(--desktop-h4-line-height);
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-6 .icon-export-instance {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.screen-6 .divider-49 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 44px !important;
+  width: 476px !important;
+}
+
+.screen-6 .frame-30 {
+  align-items: center;
+  display: flex;
+  gap: 190px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-6 .link-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0px 50px;
+  position: relative;
+  width: 44px;
+}
+
+.screen-6 .tree-menu-3 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -43px;
+  position: relative;
+  width: 87px;
+}
+
+.screen-6 .frame-31 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 2px;
+  position: relative;
+}
+
+.screen-6 .body-text-link-4 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-font-family);
+  font-size: var(--desktop-h6-font-size);
+  font-style: var(--desktop-h6-font-style);
+  font-weight: var(--desktop-h6-font-weight);
+  letter-spacing: var(--desktop-h6-letter-spacing);
+  line-height: var(--desktop-h6-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-6 .tree-menu-4 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -94px;
+  position: relative;
+  width: 138px;
+}
+
+.screen-6 .tree-menu-5 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -91px;
+  position: relative;
+  width: 135px;
+}
+
+.screen-6 .tree-menu-6 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -84px;
+  position: relative;
+  width: 128px;
+}
+
+.screen-6 .tree-menu-7 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -62px;
+  position: relative;
+  width: 106px;
+}
+
+.screen-6 .tree-menu-8 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -99px;
+  position: relative;
+  width: 143px;
+}
+
+.screen-6 .tree-menu-9 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -112px;
+  position: relative;
+  width: 156px;
+}
+
+.screen-6 .tree-menu-10 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -170px;
+  position: relative;
+  width: 214px;
+}
+
+.screen-6 .body-text-link-5 {
+  color: var(--grey-grey-6);
+  font-family: "Neue Haas Grotesk Display Std-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-6 .tree-menu-11 {
+  align-items: center;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -10px;
+  position: relative;
+  width: 54px;
+}
+
+.screen-6 .scrollbar-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--greygrey-2);
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 1px;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-6 .scroller-4 {
+  background-color: #d8dada;
+  border-radius: 3px;
+  height: 44px;
+  min-width: 6px;
+  position: relative;
+}
+
+.screen-6 .user-interaction-4 {
+  height: 32px;
+  left: 385px;
+  position: absolute;
+  top: 128px;
+  transform: rotate(-90deg);
+  width: 32px;
+}
+
+.screen-6 .group-37 {
+  height: 32px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+}
+
+.screen-6 .group-38 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.screen-6 .click-2 {
+  height: 32px !important;
+  left: -4px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 40px !important;
+}

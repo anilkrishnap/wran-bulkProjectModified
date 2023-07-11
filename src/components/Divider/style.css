@@ -1,0 +1,35 @@
+.divider.three-PX-black {
+  background-color: var(--grey-grey-6);
+  border: 0px none;
+  border-color: var(--greygrey-4);
+  height: 5px;
+  width: 1006px;
+}
+
+.divider.two-PX-black {
+  background-color: var(--grey-grey-6);
+  border: 0px none;
+  border-color: var(--greygrey-4);
+  height: 4px;
+  width: 1006px;
+}
+
+.divider.one-PX-grey {
+  background-color: #d8dada;
+  height: 1px;
+  width: 1004px;
+}
+
+.divider.one-PX-black {
+  background-color: var(--grey-grey-6);
+  border: 0px none;
+  border-color: var(--greygrey-4);
+  height: 3px;
+  width: 1006px;
+}
+
+.divider.four-PX-black {
+  background-color: var(--grey-grey-6);
+  height: 4px;
+  width: 1004px;
+}

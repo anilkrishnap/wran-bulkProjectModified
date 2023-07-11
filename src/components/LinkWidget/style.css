@@ -1,0 +1,101 @@
+.link-widget {
+  align-items: flex-start;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  position: relative;
+  width: 496px;
+}
+
+.link-widget .header-and-divider {
+  align-self: stretch;
+  height: 48px;
+  min-width: 476px;
+  position: relative;
+}
+
+.link-widget .header-with-icon {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 476px;
+}
+
+.link-widget .placeholder-text-3 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h4-font-family);
+  font-size: var(--desktop-h4-font-size);
+  font-style: var(--desktop-h4-font-style);
+  font-weight: var(--desktop-h4-font-weight);
+  letter-spacing: var(--desktop-h4-letter-spacing);
+  line-height: var(--desktop-h4-line-height);
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.link-widget .icon-export {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.link-widget .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 44px !important;
+  width: 476px !important;
+}
+
+.link-widget .frame-6 {
+  align-items: center;
+  display: flex;
+  gap: 190px;
+  position: relative;
+  width: fit-content;
+}
+
+.link-widget .link {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0px 50px;
+  position: relative;
+  width: 44px;
+}
+
+.link-widget .tree-menu-instance {
+  margin-top: unset !important;
+}
+
+.link-widget .tree-menu-2 {
+  font-family: var(--desktop-h6-font-family) !important;
+  font-size: var(--desktop-h6-font-size) !important;
+  font-style: var(--desktop-h6-font-style) !important;
+  font-weight: var(--desktop-h6-font-weight) !important;
+  letter-spacing: var(--desktop-h6-letter-spacing) !important;
+  line-height: var(--desktop-h6-line-height) !important;
+}
+
+.link-widget .icon-CTA-caret-close-wrapper {
+  margin-right: -10px !important;
+  width: 54px !important;
+}
+
+.link-widget .icon-CTA-caret-close {
+  height: 12px !important;
+  min-width: 12px !important;
+  position: relative !important;
+}
+
+.link-widget .scrollbar-instance {
+  align-self: stretch !important;
+  height: unset !important;
+  justify-content: flex-end !important;
+}

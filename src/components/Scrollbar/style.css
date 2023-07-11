@@ -1,0 +1,32 @@
+.scrollbar {
+  align-items: flex-start;
+  background-color: var(--greygrey-2);
+  display: flex;
+  padding: 1px;
+  position: relative;
+}
+
+.scrollbar .scroller {
+  background-color: #d8dada;
+  border-radius: 3px;
+  height: 44px;
+  min-width: 6px;
+  position: relative;
+}
+
+.scrollbar.horizontal {
+  flex-direction: column;
+  width: 149px;
+}
+
+.scrollbar.vertical {
+  gap: 10px;
+  height: 126px;
+  width: fit-content;
+}
+
+.scrollbar.horizontal .scroller {
+  margin-bottom: -19px;
+  margin-top: -19px;
+  transform: rotate(90deg);
+}

@@ -1,0 +1,159 @@
+.CBPM {
+  background-color: #f7f9fb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.CBPM .div-3 {
+  background-color: var(--bg);
+  border: 1px none;
+  height: 763px;
+  position: relative;
+  width: 1024px;
+}
+
+.CBPM .global-header-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.CBPM .icon-instance-node {
+  height: 12px !important;
+  min-width: 12px !important;
+  position: relative !important;
+}
+
+.CBPM .global-header-instance {
+  background-image: url(../../../static/img/shape-565.svg) !important;
+}
+
+.CBPM .atoms-icon-2019-close-2-wrapper {
+  background-image: url(../../../static/img/combined-shape.svg) !important;
+}
+
+.CBPM .global-header-3 {
+  align-self: stretch !important;
+  min-width: 38px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.CBPM .overlap-2 {
+  height: 348px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 1024px;
+}
+
+.CBPM .link-widget-instance {
+  left: 10px !important;
+  position: absolute !important;
+  top: 10px !important;
+}
+
+.CBPM .link-widget-2 {
+  margin-right: -43px !important;
+  width: 87px !important;
+}
+
+.CBPM .link-widget-3 {
+  margin-right: -94px !important;
+  width: 138px !important;
+}
+
+.CBPM .link-widget-4 {
+  margin-right: -91px !important;
+  width: 135px !important;
+}
+
+.CBPM .link-widget-5 {
+  margin-right: -84px !important;
+  width: 128px !important;
+}
+
+.CBPM .link-widget-6 {
+  margin-right: -62px !important;
+  width: 106px !important;
+}
+
+.CBPM .link-widget-7 {
+  margin-right: -99px !important;
+  width: 143px !important;
+}
+
+.CBPM .link-widget-8 {
+  margin-right: -112px !important;
+  width: 156px !important;
+}
+
+.CBPM .link-widget-9 {
+  margin-right: -170px !important;
+  width: 214px !important;
+}
+
+.CBPM .design-component-instance-node-2 {
+  font-family: "Neue Haas Grotesk Display Std-Bold", Helvetica !important;
+  font-size: 14px !important;
+  font-style: unset !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: 14.5px !important;
+}
+
+.CBPM .user-interaction {
+  height: 32px;
+  left: 395px;
+  position: absolute;
+  top: 130px;
+  transform: rotate(-90deg);
+  width: 32px;
+}
+
+.CBPM .group-6 {
+  height: 32px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+}
+
+.CBPM .group-7 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.CBPM .click-9 {
+  height: 32px !important;
+  left: -4px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 40px !important;
+}
+
+.CBPM .alerts-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+
+
+.linkTo_homePage {
+  opacity: 0;
+  /* padding: 20px; */
+  background: red;
+  position: absolute;
+  top: 240px;
+  width: 150px;
+  height: 20px;
+  z-index: 9;
+  left: 496px;
+}

@@ -1,0 +1,81 @@
+.logo-canvaslogo {
+  height: 32px;
+  width: 148px;
+}
+
+.logo-canvaslogo .overlap {
+  height: 32px;
+  position: relative;
+}
+
+.logo-canvaslogo .path {
+  height: 21px !important;
+  left: 130px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 18px !important;
+}
+
+.logo-canvaslogo .group {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 130px;
+}
+
+.logo-canvaslogo .path-13 {
+  height: 22px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 21px !important;
+}
+
+.logo-canvaslogo .shape {
+  height: 22px !important;
+  left: 23px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 21px !important;
+}
+
+.logo-canvaslogo .path-38 {
+  height: 21px !important;
+  left: 46px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 20px !important;
+}
+
+.logo-canvaslogo .overlap-group {
+  height: 22px;
+  left: 67px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.logo-canvaslogo .path-28 {
+  height: 21px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 1px !important;
+  width: 22px !important;
+}
+
+.logo-canvaslogo .shape-561 {
+  height: 22px !important;
+  left: 21px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 21px !important;
+}
+
+.logo-canvaslogo .path-29 {
+  height: 22px !important;
+  left: 110px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 20px !important;
+}

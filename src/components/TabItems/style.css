@@ -1,0 +1,202 @@
+.tab-items {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.tab-items .class {
+  align-self: stretch !important;
+  height: 4px !important;
+  min-width: 76px !important;
+  position: relative !important;
+}
+
+.tab-items .class-2 {
+  align-self: stretch !important;
+  height: 4px !important;
+  min-width: 64px !important;
+  position: relative !important;
+}
+
+.tab-items .item-name {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tab-items .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items .icon-close {
+  height: 7px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.tab-items .item-name-2 {
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tab-items .bar-instance {
+  align-self: stretch !important;
+  min-width: 69px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.tab-items.secondary {
+  flex-direction: column;
+}
+
+.tab-items.state-1-focus {
+  border: 1px dashed;
+  border-color: var(--grey-grey-6);
+}
+
+.tab-items.primary {
+  gap: 5px;
+}
+
+.tab-items.primary.state-1-focus {
+  padding: 0px 4px;
+}
+
+.tab-items.secondary.state-1-focus {
+  padding: 0px 5px;
+}
+
+.tab-items.state-1-selected .frame-4 {
+  width: fit-content;
+}
+
+.tab-items.state-1-disabled .frame-4 {
+  width: fit-content;
+}
+
+.tab-items.state-1-hover .frame-4 {
+  width: fit-content;
+}
+
+.tab-items.state-1-focus .frame-4 {
+  width: 76px;
+}
+
+.tab-items.state-1-default .frame-4 {
+  width: fit-content;
+}
+
+.tab-items.state-1-selected .item-name {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-font-family);
+  font-size: var(--desktop-h6-font-size);
+  font-style: var(--desktop-h6-font-style);
+  font-weight: var(--desktop-h6-font-weight);
+  letter-spacing: var(--desktop-h6-letter-spacing);
+  line-height: var(--desktop-h6-line-height);
+}
+
+.tab-items.state-1-disabled .item-name {
+  color: #d8dada;
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}
+
+.tab-items.state-1-hover .item-name {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-font-family);
+  font-size: var(--desktop-h6-font-size);
+  font-style: var(--desktop-h6-font-style);
+  font-weight: var(--desktop-h6-font-weight);
+  letter-spacing: var(--desktop-h6-letter-spacing);
+  line-height: var(--desktop-h6-line-height);
+}
+
+.tab-items.state-1-focus .item-name {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}
+
+.tab-items.state-1-default .item-name {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}
+
+.tab-items.state-1-selected .item-name-2 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-font-family);
+  font-size: var(--desktop-h6-font-size);
+  font-style: var(--desktop-h6-font-style);
+  font-weight: var(--desktop-h6-font-weight);
+  letter-spacing: var(--desktop-h6-letter-spacing);
+  line-height: var(--desktop-h6-line-height);
+}
+
+.tab-items.state-1-disabled .item-name-2 {
+  color: var(--greygrey-3);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}
+
+.tab-items.state-1-hover .item-name-2 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-font-family);
+  font-size: var(--desktop-h6-font-size);
+  font-style: var(--desktop-h6-font-style);
+  font-weight: var(--desktop-h6-font-weight);
+  letter-spacing: var(--desktop-h6-letter-spacing);
+  line-height: var(--desktop-h6-line-height);
+}
+
+.tab-items.state-1-focus .item-name-2 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}
+
+.tab-items.state-1-default .item-name-2 {
+  color: var(--grey-grey-6);
+  font-family: var(--desktop-h6-regular-font-family);
+  font-size: var(--desktop-h6-regular-font-size);
+  font-style: var(--desktop-h6-regular-font-style);
+  font-weight: var(--desktop-h6-regular-font-weight);
+  letter-spacing: var(--desktop-h6-regular-letter-spacing);
+  line-height: var(--desktop-h6-regular-line-height);
+}

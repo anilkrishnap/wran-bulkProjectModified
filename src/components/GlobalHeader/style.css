@@ -1,0 +1,255 @@
+.global-header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.global-header .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 983.84px;
+}
+
+.global-header .menu-logo {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.global-header .ATOMS-ICON-menu {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.global-header .override-logo {
+  min-width: 147.84px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.global-header .logo-canvaslogo-instance {
+  width: 148px !important;
+}
+
+.global-header .global-search-icons {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.global-header .MOLECULES-FORM {
+  width: 223px !important;
+}
+
+.global-header .search-input-instance {
+  min-width: 171px !important;
+}
+
+.global-header .instance-node {
+  min-width: 223px !important;
+}
+
+.global-header .ATOMS-ICON-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.global-header .download {
+  height: 28.08px;
+  min-width: 24px;
+  position: relative;
+}
+
+.global-header .ATOMS-AVATAR-DEFAULT {
+  background-image: url(../../../static/img/combined-shape-2.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.global-header .tab-instance {
+  height: 4px !important;
+  margin-left: -203px !important;
+  margin-top: -67.5px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-2 {
+  height: 4px !important;
+  margin-left: -304px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-3 {
+  height: 4px !important;
+  margin-left: -405px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-4 {
+  gap: 10px !important;
+}
+
+.global-header .tab-5 {
+  height: 4px !important;
+  margin-left: -506px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-6 {
+  height: 4px !important;
+  margin-left: -607px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-7 {
+  height: 4px !important;
+  margin-left: -708px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-8 {
+  height: 4px !important;
+  margin-left: -809px !important;
+  margin-top: -64px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .divider-2 {
+  min-width: 1004px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.global-header .frame-wrapper {
+  align-items: flex-start;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.global-header .atoms-icon-2019-close-2 {
+  height: 12px !important;
+  min-width: 12px !important;
+  position: relative !important;
+}
+
+.global-header .ATOMS-ICON-chat {
+  background-image: url(../../../static/img/shape-17.svg) !important;
+}
+
+.global-header .div-2 {
+  align-items: flex-start;
+  background-color: var(--grey-grey-1);
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px 10px;
+  position: relative;
+  width: 1024px;
+}
+
+.global-header .tab-9 {
+  height: 4px !important;
+  margin-left: -203px !important;
+  margin-top: -119.5px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-10 {
+  align-self: stretch !important;
+  min-width: 69px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.global-header .tab-11 {
+  height: 4px !important;
+  margin-left: -304px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-12 {
+  height: 4px !important;
+  margin-left: -405px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-13 {
+  height: 4px !important;
+  margin-left: -506px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-14 {
+  height: 4px !important;
+  margin-left: -607px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-15 {
+  height: 4px !important;
+  margin-left: -708px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header .tab-16 {
+  height: 4px !important;
+  margin-left: -809px !important;
+  margin-top: -116px !important;
+  min-width: 7px !important;
+  position: relative !important;
+}
+
+.global-header.type-primary {
+  background-color: var(--grey-grey-1);
+  gap: 10px;
+  padding: 10px 20px;
+  width: fit-content;
+}
+
+.global-header.type-default {
+  width: fit-content;
+}
+
+.global-header.type-secondary {
+  background-color: var(--grey-grey-1);
+  padding: 5px 10px 10px;
+  width: 1024px;
+}
